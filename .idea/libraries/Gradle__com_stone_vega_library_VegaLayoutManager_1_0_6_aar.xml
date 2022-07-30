@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="Gradle: com.stone.vega.library:VegaLayoutManager:1.0.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a40353f36f0078037ce16bc0dba91c75/jetified-VegaLayoutManager-1.0.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a40353f36f0078037ce16bc0dba91c75/jetified-VegaLayoutManager-1.0.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a40353f36f0078037ce16bc0dba91c75/jetified-VegaLayoutManager-1.0.6/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b44398194d09ddf65d526239e255e9d7/jetified-VegaLayoutManager-1.0.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b44398194d09ddf65d526239e255e9d7/jetified-VegaLayoutManager-1.0.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b44398194d09ddf65d526239e255e9d7/jetified-VegaLayoutManager-1.0.6/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/395779b1dbd32b134845d0353f1ecb5a/jetified-VegaLayoutManager-1.0.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/395779b1dbd32b134845d0353f1ecb5a/jetified-VegaLayoutManager-1.0.6/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/395779b1dbd32b134845d0353f1ecb5a/jetified-VegaLayoutManager-1.0.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9e21fb3cab76a2e9397bb751be402fb2/jetified-VegaLayoutManager-1.0.6/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9e21fb3cab76a2e9397bb751be402fb2/jetified-VegaLayoutManager-1.0.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9e21fb3cab76a2e9397bb751be402fb2/jetified-VegaLayoutManager-1.0.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9a038fcecf2c236fe52ba523132a55dc/jetified-VegaLayoutManager-1.0.6/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9a038fcecf2c236fe52ba523132a55dc/jetified-VegaLayoutManager-1.0.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9a038fcecf2c236fe52ba523132a55dc/jetified-VegaLayoutManager-1.0.6/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7a10a1eb5c30cebd68b9d6bd2b8f6279/jetified-VegaLayoutManager-1.0.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7a10a1eb5c30cebd68b9d6bd2b8f6279/jetified-VegaLayoutManager-1.0.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7a10a1eb5c30cebd68b9d6bd2b8f6279/jetified-VegaLayoutManager-1.0.6/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.stone.vega.library/VegaLayoutManager/1.0.6/1c34644593adba7624a257f3b7244ec89409e8ff/VegaLayoutManager-1.0.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.stone.vega.library/VegaLayoutManager/1.0.6/e8c7058bc031c12f54a5ef19fad853e88c797c8/VegaLayoutManager-1.0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

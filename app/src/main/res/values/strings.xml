@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Spoti Search</string>
+    <string name="searchHint">Search Query</string>
+    <string name="artist">artists</string>
+    <string name="countries">countries</string>
+    <string name="track_list">{fa_music} Tracks</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Log In</string>
+    <string name="signup">Enjoy!</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="want_signup">Dont have account?\u0020</string>
+    <string name="want_signup2"> <u>Sign Up!</u></string>
+    <string name="load_error">Error loading!</string>
+    <string name="release_list">{fa_music} Release List</string>
+    <string name="settings_title">{fa_gears} Settings</string>
+    <string name="modeDark">Dark</string>
+    <string name="modeLight">Light</string>
+    <string name="modeDefault">System Default</string>
+    <string name="login_title">{fa_chevron_right} LOGIN</string>
+    <string name="signup_title">{fa_chevron_circle_right} SIGN UP</string>
+    <string name="want_login">Already have an account?\u0020</string>
+    <string name="want_login2"><u>Log In!</u></string>
+    <string name="youtube_search">Search on\u0020</string>
+    <string name="by_artist">by Artist:</string>
+    <string name="from_release">from Release:</string>
+    <string name="playlist_title">{fa_list} My Playlist</string>
+    <string name="not_logged_in">You\'re not logged in!</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="powered_by">POWERED BY</string>
+    <string name="save_darkmode">{fa_save} save dark mode</string>
+    <string name="account">Account</string>
+    <string name="delete_all">{fa_trash} delete all</string>
+    <string name="search_button">{fa_search} Search the MusicBrainz database</string>
+    <string name="registered_acc">Registered Account(s): </string>
+    <string name="login_first">You need to login first!</string>
+</resources>

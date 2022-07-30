@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:backgroundTint="?android:attr/colorBackground"
+    android:orientation="vertical">
+
+    <com.beardedhen.androidbootstrap.BootstrapButton
+        android:id="@+id/search_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:fontFamily="@font/custom_font"
+        app:bootstrapBrand="primary"
+        app:bootstrapSize="md"
+        app:bootstrapText="@string/search_button"
+        app:buttonMode="regular"
+        app:roundedCorners="true"
+        app:showOutline="true" />
+
+    <LinearLayout
+        android:id="@+id/max_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <com.beardedhen.androidbootstrap.BootstrapWell
+            android:id="@+id/release_well"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="10dp"
+            android:layout_weight="1"
+            android:backgroundTint="@color/btwell">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:padding="8dp">
+
+                    <com.beardedhen.androidbootstrap.AwesomeTextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:fontFamily="@font/custom_font"
+                        app:bootstrapBrand="regular"
+                        app:bootstrapText="{fa_headphones} releases" />
+
+                    <com.beardedhen.androidbootstrap.BootstrapButton
+                        android:id="@+id/refresh_release"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:backgroundTint="@color/btwell"
+                        android:fontFamily="@font/custom_font"
+                        app:bootstrapSize="sm"
+                        app:bootstrapText="{fa_refresh}"
+                        app:buttonMode="regular"
+                        app:roundedCorners="true"
+                        app:showOutline="true" />
+
+                </LinearLayout>
+
+                <GridView
+                    android:id="@+id/artist_grid"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:drawSelectorOnTop="true"
+                    android:numColumns="2" />
+            </LinearLayout>
+        </com.beardedhen.androidbootstrap.BootstrapWell>
+
+        <com.beardedhen.androidbootstrap.BootstrapWell
+            android:id="@+id/country_well"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:backgroundTint="@color/btwell">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:padding="8dp">
+
+                    <com.beardedhen.androidbootstrap.AwesomeTextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:fontFamily="@font/custom_font"
+                        app:bootstrapBrand="regular"
+                        app:bootstrapText="{fa_globe} artists by country" />
+
+                    <com.beardedhen.androidbootstrap.BootstrapButton
+                        android:id="@+id/more_country"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:backgroundTint="@color/btwell"
+                        android:fontFamily="@font/custom_font"
+                        app:bootstrapSize="sm"
+                        app:bootstrapText="{fa_ellipsis_v}"
+                        app:buttonMode="regular"
+                        app:roundedCorners="true"
+                        app:showOutline="true" />
+
+                </LinearLayout>
+
+                <GridView
+                    android:id="@+id/country_grid"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:drawSelectorOnTop="true"
+                    android:numColumns="3" />
+
+            </LinearLayout>
+        </com.beardedhen.androidbootstrap.BootstrapWell>
+    </LinearLayout>
+</LinearLayout>

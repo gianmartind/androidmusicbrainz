@@ -1,0 +1,34 @@
+<component name="libraryTable">
+  <library name="Gradle: com.beardedhen:androidbootstrap:2.3.2@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/60954d02cce4085653253f33a7758dac/jetified-androidbootstrap-2.3.2/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f8b75ec1dd3e35c5f5cd53eeec0e6782/jetified-androidbootstrap-2.3.2/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/84818e155df59f9dce19902d29503da1/jetified-androidbootstrap-2.3.2/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1e8b065a7d97e71f25f25d419b2834b9/jetified-androidbootstrap-2.3.2/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0dc91f4b4e8d8d8509b1d6cb439be96a/jetified-androidbootstrap-2.3.2/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/60954d02cce4085653253f33a7758dac/jetified-androidbootstrap-2.3.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/60954d02cce4085653253f33a7758dac/jetified-androidbootstrap-2.3.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/60954d02cce4085653253f33a7758dac/jetified-androidbootstrap-2.3.2/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f8b75ec1dd3e35c5f5cd53eeec0e6782/jetified-androidbootstrap-2.3.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f8b75ec1dd3e35c5f5cd53eeec0e6782/jetified-androidbootstrap-2.3.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f8b75ec1dd3e35c5f5cd53eeec0e6782/jetified-androidbootstrap-2.3.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/84818e155df59f9dce19902d29503da1/jetified-androidbootstrap-2.3.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/84818e155df59f9dce19902d29503da1/jetified-androidbootstrap-2.3.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/84818e155df59f9dce19902d29503da1/jetified-androidbootstrap-2.3.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1e8b065a7d97e71f25f25d419b2834b9/jetified-androidbootstrap-2.3.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1e8b065a7d97e71f25f25d419b2834b9/jetified-androidbootstrap-2.3.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1e8b065a7d97e71f25f25d419b2834b9/jetified-androidbootstrap-2.3.2/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0dc91f4b4e8d8d8509b1d6cb439be96a/jetified-androidbootstrap-2.3.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0dc91f4b4e8d8d8509b1d6cb439be96a/jetified-androidbootstrap-2.3.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0dc91f4b4e8d8d8509b1d6cb439be96a/jetified-androidbootstrap-2.3.2/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.beardedhen/androidbootstrap/2.3.2/9bc5e92076dccf548967e276ce5ebb18f41b548d/androidbootstrap-2.3.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.beardedhen/androidbootstrap/2.3.2/c1f461a0722ca15d4090286735f68afbe3036475/androidbootstrap-2.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

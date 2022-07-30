@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dropdown_search">
+        <item>Release</item>
+        <item>Recording</item>
+        <item>Artist</item>
+        <item>Artist by type</item>
+        <item>Artist by area</item>
+    </string-array>
+</resources>

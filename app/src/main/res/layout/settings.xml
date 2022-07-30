@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.beardedhen.androidbootstrap.AwesomeTextView
+        android:id="@+id/menu_page_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/custom_font"
+        android:padding="45px"
+        android:textSize="32dp"
+        app:bootstrapText="@string/settings_title" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="40px">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/custom_font"
+                    android:paddingTop="20px"
+                    android:paddingBottom="20px"
+                    android:text="@string/dark_mode"
+                    android:textColor="?android:attr/textColorPrimary"
+                    android:textSize="26sp" />
+
+                <RadioGroup
+                    android:id="@+id/dark_mode"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <RadioButton
+                        android:id="@+id/dark_no"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/custom_font"
+                        android:text="@string/modeLight" />
+
+                    <RadioButton
+                        android:id="@+id/dark_yes"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/custom_font"
+                        android:text="@string/modeDark" />
+
+                    <RadioButton
+                        android:id="@+id/dark_default"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/custom_font"
+                        android:text="@string/modeDefault" />
+
+                </RadioGroup>
+
+                <com.beardedhen.androidbootstrap.BootstrapButton
+                    android:id="@+id/save"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/custom_font"
+                    android:textColor="@color/black"
+                    app:bootstrapBrand="primary"
+                    app:bootstrapSize="md"
+                    app:bootstrapText="@string/save_darkmode"
+                    app:roundedCorners="true"
+                    app:showOutline="false" />
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_margin="10dp"
+                android:background="@android:color/darker_gray" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/custom_font"
+                    android:paddingTop="20px"
+                    android:paddingBottom="20px"
+                    android:text="@string/account"
+                    android:textColor="?android:attr/textColorPrimary"
+                    android:textSize="26sp" />
+
+                <TextView
+                    android:id="@+id/registered_acc"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/custom_font"
+                    android:paddingTop="14dp"
+                    android:paddingBottom="14dp"
+                    android:text="@string/registered_acc" />
+
+                <com.beardedhen.androidbootstrap.BootstrapButton
+                    android:id="@+id/delete_account"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/custom_font"
+                    android:textColor="@color/black"
+                    app:bootstrapBrand="danger"
+                    app:bootstrapSize="md"
+                    app:bootstrapText="@string/delete_all"
+                    app:fontAwesomeIcon="fa_trash"
+                    app:roundedCorners="true"
+                    app:showOutline="false" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
